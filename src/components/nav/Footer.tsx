@@ -40,7 +40,7 @@ function FooterLogo() {
       </div>
       <div className="text-lg sm:text-xl font-medium ml-6 space-y-1">
         <div>Go interchain</div>
-        <div>with Hyperlane</div>
+        <div>with Kactuss</div>
       </div>
     </div>
   );
