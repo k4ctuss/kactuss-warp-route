@@ -5,5 +5,5 @@
 export const warpRouteWhitelist: Array<string> | null = null;
 // Example:
 [
-  'ARB/arbitrum-base'
+  'ETH/ethereum-viction'
 ];
